@@ -1,10 +1,10 @@
 # Magento 2 Admin Order Multi Status Filter
 
-![phpcs](https://github.com/DominicWatts/MultiStatusFilter/workflows/phpcs/badge.svg)
+![phpcs](https://github.com/DominicWatts/MultiStatusFilter/actions/workflows/phpcs.yml/badge.svg)
 
 ![PHPCompatibility](https://github.com/DominicWatts/MultiStatusFilter/workflows/PHPCompatibility/badge.svg)
 
-![PHPStan](https://github.com/DominicWatts/MultiStatusFilter/workflows/PHPStan/badge.svg)
+![PHPStan](https://github.com/DominicWatts/MultiStatusFilter/actions/workflows/phpstan.yml/badge.svg)
 
 ![php-cs-fixer](https://github.com/DominicWatts/MultiStatusFilter/workflows/php-cs-fixer/badge.svg)
 
